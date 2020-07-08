@@ -1,4 +1,4 @@
-# College_activity_registration_system
+# College Activity Registration System(CARS)
 A website for student to register for an activity in a college.
 
 1. Place 'CARS' project folder inside htdocs folder at XAMPP's directory
