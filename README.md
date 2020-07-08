@@ -1,5 +1,5 @@
 # College_activity_registration_system
-A website for student to register for an activity in a college//
+A website for student to register for an activity in a college.
 
 1. Place 'CARS' project folder inside htdocs folder at XAMPP's directory
 2. Edit XAMPP's php.ini file:
